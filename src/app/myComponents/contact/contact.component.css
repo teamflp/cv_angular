@@ -1,0 +1,15 @@
+h2 {
+   font-weight: 500;
+   color: #333;
+   border-bottom: 2px solid #ddd;
+   padding-bottom: 10px;
+}
+
+.form-control:focus {
+   box-shadow: 0 0 0 0.2rem rgba(0, 123, 255, 0.25);
+   border-color: #007bff;
+}
+
+.btn:hover {
+   background-color: #0056b3;
+}
